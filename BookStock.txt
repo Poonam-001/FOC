@@ -1,0 +1,5 @@
+Harry Potter,JK Rowling,25,$2 
+Start With Why,Simon Sinek,15,$1.5 
+Programming With Python,John Smith,25,$1.5
+A Revenue Stamp,Amrita Pritam,20,$1
+For whom the Bell Tolls,Ernest Hemingway,10,$3
